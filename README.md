@@ -1,1 +1,1 @@
-# chatgpt-plugins
+# chatgpt-plugins (Agents)
